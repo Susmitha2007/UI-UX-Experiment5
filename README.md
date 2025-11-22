@@ -22,7 +22,7 @@ To Present 2 different UX project scenarios (e.g., designing a health app, an e-
 
 ## Output:
 
-[Scenario 1.docx](https://github.com/user-attachments/files/23687472/Scenario.1.docx)
+[ex5 - Google Docs.pdf](https://github.com/user-attachments/files/23687653/ex5.-.Google.Docs.pdf)
 
 
 ## Result:
